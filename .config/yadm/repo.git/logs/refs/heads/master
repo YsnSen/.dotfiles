@@ -1,3 +1,4 @@
 0000000000000000000000000000000000000000 4a1f7cac0e112b883c5181e4400e16aff8254ddc Yasin Şen <yasin@tutamail.com> 1604791201 +0300	commit (initial): First commit of dotfiles
 4a1f7cac0e112b883c5181e4400e16aff8254ddc 9d320c1aaa622805a1c7c90520ae02c37bd7b706 Yasin Şen <yasin@tutamail.com> 1604793671 +0300	commit: added nnn and spacefish promt configuraitons
 9d320c1aaa622805a1c7c90520ae02c37bd7b706 1a7d32f8aa5fe6349f3d6d92a118c8a88a36eda5 Yasin Şen <yasin@tutamail.com> 1604959785 +0300	commit: made some file location changes
+1a7d32f8aa5fe6349f3d6d92a118c8a88a36eda5 08c0e64653cd4c27862ce071e026dae6f05203c7 Yasin Şen <yasin@tutamail.com> 1604960033 +0300	commit: Moved some config files
