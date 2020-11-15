@@ -25,6 +25,7 @@ call plug#begin()
     Plug 'sbdchd/neoformat'
     Plug 'neomake/neomake'
     Plug 'morhetz/gruvbox'
+    Plug 'dense-analysis/ale'
     Plug 'majutsushi/tagbar'
 call plug#end()
 
@@ -51,10 +52,15 @@ let g:neoformat_basic_format_trim = 1
 
 let g:neomake_python_enabled_makers = ['pylint']
 
+
+let g:ale_linters = {'python3': ['flake8','pydocstyle', 'bandit', 'mypy']}
+let g:ale_fixers = {'*': ['remove_trailing_lines','trim_whitespace'],'python3': ['black','isort'],'python':['black','isort']}
+let g:ale_fix_on_save = 1
+
 map <C-n> :NERDTreeToggle<CR>
 inoremap <expr><tab> pumvisible() ? "\<c-n>" : "\<tab>"
-
 let g:airline_powerline_fonts = 1
 
 nmap <F8> :TagbarToggle<CR>
 
+map <F5> <Esc>:w<CR>:!clear;python3 %<CR>

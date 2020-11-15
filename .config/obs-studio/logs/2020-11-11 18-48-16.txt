@@ -1,0 +1,342 @@
+06:48:16 PM.188: CPU Name: Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz
+06:48:16 PM.188: CPU Speed: 2491.892MHz
+06:48:16 PM.188: Physical Cores: 4, Logical Cores: 8
+06:48:16 PM.188: Physical Memory: 7683MB Total, 1022MB Free
+06:48:16 PM.188: Kernel Version: Linux 5.9.6-arch1-1
+06:48:16 PM.188: Distribution: "Arch Linux" Unknown
+06:48:16 PM.189: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.9
+06:48:16 PM.190: Portable mode: false
+06:48:16 PM.239: OBS 26.0.2-2 (linux)
+06:48:16 PM.239: ---------------------------------
+06:48:16 PM.240: ---------------------------------
+06:48:16 PM.240: audio settings reset:
+06:48:16 PM.240: 	samples per sec: 48000
+06:48:16 PM.240: 	speakers:        2
+06:48:16 PM.241: ---------------------------------
+06:48:16 PM.241: Initializing OpenGL...
+06:48:16 PM.272: Loading up OpenGL on adapter Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 4600 (HSW GT2)
+06:48:16 PM.272: OpenGL loaded successfully, version 4.5 (Core Profile) Mesa 20.2.2, shading language 4.50
+06:48:16 PM.286: ---------------------------------
+06:48:16 PM.286: video settings reset:
+06:48:16 PM.286: 	base resolution:   1920x1080
+06:48:16 PM.286: 	output resolution: 1920x1080
+06:48:16 PM.286: 	downscale filter:  Bicubic
+06:48:16 PM.286: 	fps:               60/1
+06:48:16 PM.286: 	format:            NV12
+06:48:16 PM.286: 	YUV mode:          709/Partial
+06:48:16 PM.286: NV12 texture support not available
+06:48:16 PM.286: Audio monitoring device:
+06:48:16 PM.286: 	name: Default
+06:48:16 PM.286: 	id: default
+06:48:16 PM.286: ---------------------------------
+06:48:16 PM.289: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+06:48:16 PM.361: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+06:48:16 PM.361: No blackmagic support
+06:48:16 PM.368: NVENC supported
+06:48:16 PM.368: FFMPEG VAAPI supported
+06:48:16 PM.369: os_dlopen(/usr//lib/obs-plugins/obs-libfdk.so->/usr//lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.2: cannot open shared object file: No such file or directory
+06:48:16 PM.369: 
+06:48:16 PM.369: Module '/usr//lib/obs-plugins/obs-libfdk.so' not loaded
+06:48:16 PM.374: os_dlopen(libvlc.so.5->libvlc.so.5): libvlc.so.5: cannot open shared object file: No such file or directory
+06:48:16 PM.374: 
+06:48:16 PM.374: Couldn't find VLC installation, VLC video source disabled
+06:48:16 PM.374: ---------------------------------
+06:48:16 PM.374:   Loaded Modules:
+06:48:16 PM.374:     vlc-video.so
+06:48:16 PM.374:     text-freetype2.so
+06:48:16 PM.374:     rtmp-services.so
+06:48:16 PM.374:     obs-x264.so
+06:48:16 PM.374:     obs-transitions.so
+06:48:16 PM.374:     obs-outputs.so
+06:48:16 PM.374:     obs-filters.so
+06:48:16 PM.374:     obs-ffmpeg.so
+06:48:16 PM.374:     linux-v4l2.so
+06:48:16 PM.374:     linux-pulseaudio.so
+06:48:16 PM.374:     linux-jack.so
+06:48:16 PM.374:     linux-decklink.so
+06:48:16 PM.374:     linux-capture.so
+06:48:16 PM.374:     linux-alsa.so
+06:48:16 PM.374:     image-source.so
+06:48:16 PM.374:     frontend-tools.so
+06:48:16 PM.374:     decklink-ouput-ui.so
+06:48:16 PM.374: ---------------------------------
+06:48:16 PM.374: ==== Startup complete ===============================================
+06:48:16 PM.377: All scene data cleared
+06:48:16 PM.377: ------------------------------------------------
+06:48:16 PM.382: pulse-input: Server name: 'pulseaudio 13.99.3'
+06:48:16 PM.382: pulse-input: Audio format: float32le, 32000 Hz, 1 channels
+06:48:16 PM.382: pulse-input: Started recording from 'noechosink.monitor'
+06:48:16 PM.382: [Loaded global audio device]: 'Desktop Audio'
+06:48:16 PM.383: pulse-input: Server name: 'pulseaudio 13.99.3'
+06:48:16 PM.383: pulse-input: Audio format: float32le, 32000 Hz, 1 channels
+06:48:16 PM.383: pulse-input: Started recording from 'noechosource'
+06:48:16 PM.383: [Loaded global audio device]: 'Mic/Aux'
+06:48:16 PM.391: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:48:16 PM.391: 	title: n /home/yasin
+06:48:16 PM.391: 	class: st-256color
+06:48:16 PM.391: 	Bit depth: 24
+06:48:16 PM.391: 	Found proper GLXFBConfig (in 24): yes
+06:48:16 PM.391: 
+06:48:16 PM.391: Switched to scene 'Scene'
+06:48:16 PM.391: ------------------------------------------------
+06:48:16 PM.391: Loaded scenes:
+06:48:16 PM.391: - scene 'Scene':
+06:48:16 PM.392:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+06:48:16 PM.392:     - source: 'Mic/Aux' (pulse_input_capture)
+06:48:16 PM.392: ------------------------------------------------
+06:48:16 PM.937: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+06:48:16 PM.937: 
+06:48:35 PM.656: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:48:35 PM.656: 	title: bash /home/yasin
+06:48:35 PM.656: 	class: spterm
+06:48:35 PM.656: 	Bit depth: 24
+06:48:35 PM.656: 	Found proper GLXFBConfig (in 24): yes
+06:48:35 PM.656: 
+06:48:43 PM.338: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:48:43 PM.338: 	title: bash /home/yasin
+06:48:43 PM.338: 	class: spterm
+06:48:43 PM.338: 	Bit depth: 24
+06:48:43 PM.338: 	Found proper GLXFBConfig (in 24): yes
+06:48:43 PM.338: 
+06:48:57 PM.187: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:48:57 PM.187: 	title: bash /home/yasin
+06:48:57 PM.187: 	class: spterm
+06:48:57 PM.187: 	Bit depth: 24
+06:48:57 PM.187: 	Found proper GLXFBConfig (in 24): yes
+06:48:57 PM.187: 
+06:49:04 PM.654: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:04 PM.654: 	title: bash /home/yasin
+06:49:04 PM.654: 	class: spterm
+06:49:04 PM.654: 	Bit depth: 24
+06:49:04 PM.654: 	Found proper GLXFBConfig (in 24): yes
+06:49:04 PM.654: 
+06:49:04 PM.855: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:04 PM.855: 	title: bash /home/yasin
+06:49:04 PM.855: 	class: spterm
+06:49:04 PM.855: 	Bit depth: 24
+06:49:04 PM.855: 	Found proper GLXFBConfig (in 24): yes
+06:49:04 PM.855: 
+06:49:05 PM.038: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:05 PM.038: 	title: bash /home/yasin
+06:49:05 PM.038: 	class: spterm
+06:49:05 PM.038: 	Bit depth: 24
+06:49:05 PM.038: 	Found proper GLXFBConfig (in 24): yes
+06:49:05 PM.038: 
+06:49:05 PM.171: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:05 PM.171: 	title: bash /home/yasin
+06:49:05 PM.171: 	class: spterm
+06:49:05 PM.171: 	Bit depth: 24
+06:49:05 PM.171: 	Found proper GLXFBConfig (in 24): yes
+06:49:05 PM.171: 
+06:49:05 PM.304: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:05 PM.304: 	title: bash /home/yasin
+06:49:05 PM.304: 	class: spterm
+06:49:05 PM.304: 	Bit depth: 24
+06:49:05 PM.304: 	Found proper GLXFBConfig (in 24): yes
+06:49:05 PM.304: 
+06:49:05 PM.438: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:05 PM.438: 	title: bash /home/yasin
+06:49:05 PM.438: 	class: spterm
+06:49:05 PM.438: 	Bit depth: 24
+06:49:05 PM.438: 	Found proper GLXFBConfig (in 24): yes
+06:49:05 PM.438: 
+06:49:05 PM.588: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:05 PM.588: 	title: bash /home/yasin
+06:49:05 PM.588: 	class: spterm
+06:49:05 PM.588: 	Bit depth: 24
+06:49:05 PM.588: 	Found proper GLXFBConfig (in 24): yes
+06:49:05 PM.588: 
+06:49:05 PM.738: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:05 PM.738: 	title: bash /home/yasin
+06:49:05 PM.738: 	class: spterm
+06:49:05 PM.738: 	Bit depth: 24
+06:49:05 PM.738: 	Found proper GLXFBConfig (in 24): yes
+06:49:05 PM.738: 
+06:49:05 PM.888: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:05 PM.888: 	title: bash /home/yasin
+06:49:05 PM.888: 	class: spterm
+06:49:05 PM.888: 	Bit depth: 24
+06:49:05 PM.888: 	Found proper GLXFBConfig (in 24): yes
+06:49:05 PM.888: 
+06:49:06 PM.022: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:06 PM.022: 	title: bash /home/yasin
+06:49:06 PM.022: 	class: spterm
+06:49:06 PM.022: 	Bit depth: 24
+06:49:06 PM.022: 	Found proper GLXFBConfig (in 24): yes
+06:49:06 PM.022: 
+06:49:06 PM.171: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:06 PM.171: 	title: bash /home/yasin
+06:49:06 PM.171: 	class: spterm
+06:49:06 PM.171: 	Bit depth: 24
+06:49:06 PM.171: 	Found proper GLXFBConfig (in 24): yes
+06:49:06 PM.171: 
+06:49:06 PM.471: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:06 PM.471: 	title: bash /home/yasin
+06:49:06 PM.471: 	class: spterm
+06:49:06 PM.471: 	Bit depth: 24
+06:49:06 PM.471: 	Found proper GLXFBConfig (in 24): yes
+06:49:06 PM.471: 
+06:49:06 PM.621: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:06 PM.621: 	title: bash /home/yasin
+06:49:06 PM.621: 	class: spterm
+06:49:06 PM.621: 	Bit depth: 24
+06:49:06 PM.621: 	Found proper GLXFBConfig (in 24): yes
+06:49:06 PM.621: 
+06:49:08 PM.637: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:08 PM.637: 	title: bash /home/yasin
+06:49:08 PM.637: 	class: spterm
+06:49:08 PM.637: 	Bit depth: 24
+06:49:08 PM.637: 	Found proper GLXFBConfig (in 24): yes
+06:49:08 PM.637: 
+06:49:12 PM.504: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:12 PM.504: 	title: bash /home/yasin
+06:49:12 PM.504: 	class: spterm
+06:49:12 PM.504: 	Bit depth: 24
+06:49:12 PM.504: 	Found proper GLXFBConfig (in 24): yes
+06:49:12 PM.504: 
+06:49:12 PM.904: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:12 PM.904: 	title: bash /home/yasin
+06:49:12 PM.904: 	class: spterm
+06:49:12 PM.904: 	Bit depth: 24
+06:49:12 PM.904: 	Found proper GLXFBConfig (in 24): yes
+06:49:12 PM.904: 
+06:49:14 PM.388: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:14 PM.388: 	title: bash /home/yasin
+06:49:14 PM.388: 	class: spterm
+06:49:14 PM.388: 	Bit depth: 24
+06:49:14 PM.388: 	Found proper GLXFBConfig (in 24): yes
+06:49:14 PM.388: 
+06:49:14 PM.888: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:14 PM.888: 	title: bash /home/yasin
+06:49:14 PM.888: 	class: spterm
+06:49:14 PM.888: 	Bit depth: 24
+06:49:14 PM.888: 	Found proper GLXFBConfig (in 24): yes
+06:49:14 PM.888: 
+06:49:16 PM.304: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:16 PM.304: 	title: bash /home/yasin
+06:49:16 PM.304: 	class: spterm
+06:49:16 PM.304: 	Bit depth: 24
+06:49:16 PM.304: 	Found proper GLXFBConfig (in 24): yes
+06:49:16 PM.304: 
+06:49:21 PM.671: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:21 PM.671: 	title: bash /home/yasin
+06:49:21 PM.671: 	class: spterm
+06:49:21 PM.671: 	Bit depth: 24
+06:49:21 PM.671: 	Found proper GLXFBConfig (in 24): yes
+06:49:21 PM.671: 
+06:49:24 PM.288: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:49:24 PM.288: 	title: bash /home/yasin
+06:49:24 PM.288: 	class: spterm
+06:49:24 PM.288: 	Bit depth: 24
+06:49:24 PM.288: 	Found proper GLXFBConfig (in 24): yes
+06:49:24 PM.288: 
+06:50:25 PM.180: Audio monitoring device:
+06:50:25 PM.180: 	name: Monitor of Built-in Audio Analog Stereo (echo cancelled with Built-in Audio Analog Stereo)
+06:50:25 PM.180: 	id: noechosink.monitor
+06:50:25 PM.203: ---------------------------------
+06:50:25 PM.203: video settings reset:
+06:50:25 PM.203: 	base resolution:   1920x1080
+06:50:25 PM.203: 	output resolution: 1920x1080
+06:50:25 PM.203: 	downscale filter:  Bicubic
+06:50:25 PM.203: 	fps:               60/1
+06:50:25 PM.203: 	format:            NV12
+06:50:25 PM.203: 	YUV mode:          709/Partial
+06:50:25 PM.203: NV12 texture support not available
+06:50:25 PM.204: Settings changed (outputs, advanced)
+06:50:25 PM.204: ------------------------------------------------
+06:50:52 PM.558: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:50:52 PM.558: 	title: bash /home/yasin
+06:50:52 PM.558: 	class: spterm
+06:50:52 PM.558: 	Bit depth: 24
+06:50:52 PM.558: 	Found proper GLXFBConfig (in 24): yes
+06:50:52 PM.558: 
+06:51:16 PM.122: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:51:16 PM.122: 	title: n /home/yasin
+06:51:16 PM.122: 	class: st-256color
+06:51:16 PM.122: 	Bit depth: 24
+06:51:16 PM.122: 	Found proper GLXFBConfig (in 24): yes
+06:51:16 PM.122: 
+06:51:17 PM.991: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:51:17 PM.991: 	title: OBS 26.0.2-2 (linux) - Profile: Yasin - Scenes: Untitled
+06:51:17 PM.991: 	class: obs
+06:51:17 PM.991: 	Bit depth: 24
+06:51:17 PM.991: 	Found proper GLXFBConfig (in 24): yes
+06:51:17 PM.991: 
+06:51:21 PM.338: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+06:51:21 PM.338: 	title: bash /home/yasin
+06:51:21 PM.338: 	class: spterm
+06:51:21 PM.338: 	Bit depth: 24
+06:51:21 PM.338: 	Found proper GLXFBConfig (in 24): yes
+06:51:21 PM.338: 
+06:54:32 PM.106: ==== Shutting down ==================================================
+06:54:32 PM.109: pulse-input: Stopped recording from 'noechosink.monitor'
+06:54:32 PM.109: pulse-input: Got 102966 packets with 12021850 frames
+06:54:32 PM.109: pulse-input: Stopped recording from 'noechosource'
+06:54:32 PM.109: pulse-input: Got 37571 packets with 12022720 frames
+06:54:32 PM.109: All scene data cleared
+06:54:32 PM.109: ------------------------------------------------
+06:54:32 PM.166: [Scripting] Total detached callbacks: 0
+06:54:32 PM.184: Freeing OBS context data
+06:54:32 PM.197: == Profiler Results =============================
+06:54:32 PM.197: run_program_init: 315.268 ms
+06:54:32 PM.197:  ┣OBSApp::AppInit: 1.551 ms
+06:54:32 PM.197:  ┃ ┗OBSApp::InitLocale: 0.62 ms
+06:54:32 PM.197:  ┗OBSApp::OBSInit: 288.09 ms
+06:54:32 PM.197:    ┣obs_startup: 21.095 ms
+06:54:32 PM.197:    ┗OBSBasic::OBSInit: 217.526 ms
+06:54:32 PM.197:      ┣OBSBasic::InitBasicConfig: 0.084 ms
+06:54:32 PM.197:      ┣OBSBasic::ResetAudio: 0.112 ms
+06:54:32 PM.197:      ┣OBSBasic::ResetVideo: 46.43 ms
+06:54:32 PM.197:      ┣OBSBasic::InitOBSCallbacks: 0.003 ms
+06:54:32 PM.197:      ┣OBSBasic::InitHotkeys: 0.049 ms
+06:54:32 PM.197:      ┣obs_load_all_modules: 87.88 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 1.066 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(frontend-tools.so): 64.834 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(image-source.so): 0.005 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(linux-alsa.so): 0.001 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(linux-capture.so): 0.309 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(linux-decklink.so): 0.086 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(linux-jack.so): 0.001 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.001 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(linux-v4l2.so): 0.001 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.456 ms
+06:54:32 PM.197:      ┃ ┃ ┗nvenc_check: 0.412 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(obs-filters.so): 0.013 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(obs-outputs.so): 0.001 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(obs-transitions.so): 0.009 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(obs-x264.so): 0.002 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(rtmp-services.so): 0.409 ms
+06:54:32 PM.197:      ┃ ┣obs_init_module(text-freetype2.so): 0.01 ms
+06:54:32 PM.197:      ┃ ┗obs_init_module(vlc-video.so): 0.349 ms
+06:54:32 PM.197:      ┣OBSBasic::ResetOutputs: 0.086 ms
+06:54:32 PM.197:      ┣OBSBasic::CreateHotkeys: 0.035 ms
+06:54:32 PM.197:      ┣OBSBasic::InitService: 1.082 ms
+06:54:32 PM.197:      ┣OBSBasic::InitPrimitives: 0.141 ms
+06:54:32 PM.197:      ┗OBSBasic::Load: 19.658 ms
+06:54:32 PM.197: obs_hotkey_thread(25 ms): min=0.055 ms, median=0.195 ms, max=17.693 ms, 99th percentile=0.694 ms, 100% below 25 ms
+06:54:32 PM.197: audio_thread(Audio): min=0 ms, median=0.093 ms, max=0.758 ms, 99th percentile=0.244 ms
+06:54:32 PM.197: obs_graphics_thread(16.6667 ms): min=0.129 ms, median=1.021 ms, max=31.76 ms, 99th percentile=5.827 ms, 99.9612% below 16.667 ms
+06:54:32 PM.197:  ┣tick_sources: min=0 ms, median=0.265 ms, max=18.603 ms, 99th percentile=0.656 ms
+06:54:32 PM.197:  ┣output_frame: min=0.106 ms, median=0.166 ms, max=15.357 ms, 99th percentile=0.294 ms
+06:54:32 PM.197:  ┃ ┗gs_context(video->graphics): min=0.105 ms, median=0.165 ms, max=15.357 ms, 99th percentile=0.294 ms
+06:54:32 PM.197:  ┃   ┣render_video: min=0.04 ms, median=0.113 ms, max=15.246 ms, 99th percentile=0.206 ms
+06:54:32 PM.198:  ┃   ┃ ┗render_main_texture: min=0.035 ms, median=0.109 ms, max=15.238 ms, 99th percentile=0.2 ms
+06:54:32 PM.198:  ┃   ┗gs_flush: min=0.022 ms, median=0.043 ms, max=5.071 ms, 99th percentile=0.077 ms
+06:54:32 PM.198:  ┗render_displays: min=0.003 ms, median=0.538 ms, max=10.083 ms, 99th percentile=5.032 ms
+06:54:32 PM.198: OBSBasic::ResetOutputs: 0.103 ms
+06:54:32 PM.198: OBSBasic::ResetVideo: 23.734 ms
+06:54:32 PM.198: obs_graphics_thread(16.6667 ms): min=0.139 ms, median=0.971 ms, max=17.118 ms, 99th percentile=1.937 ms, 99.9933% below 16.667 ms
+06:54:32 PM.198:  ┣tick_sources: min=0.002 ms, median=0.27 ms, max=16.297 ms, 99th percentile=0.52 ms
+06:54:32 PM.198:  ┣output_frame: min=0.104 ms, median=0.158 ms, max=0.693 ms, 99th percentile=0.297 ms
+06:54:32 PM.198:  ┃ ┗gs_context(video->graphics): min=0.104 ms, median=0.158 ms, max=0.693 ms, 99th percentile=0.296 ms
+06:54:32 PM.198:  ┃   ┣render_video: min=0.051 ms, median=0.107 ms, max=0.638 ms, 99th percentile=0.212 ms
+06:54:32 PM.198:  ┃   ┃ ┗render_main_texture: min=0.047 ms, median=0.104 ms, max=0.633 ms, 99th percentile=0.205 ms
+06:54:32 PM.198:  ┃   ┗gs_flush: min=0.022 ms, median=0.042 ms, max=0.533 ms, 99th percentile=0.077 ms
+06:54:32 PM.198:  ┗render_displays: min=0.004 ms, median=0.505 ms, max=10.77 ms, 99th percentile=1.188 ms
+06:54:32 PM.198: =================================================
+06:54:32 PM.198: == Profiler Time Between Calls ==================
+06:54:32 PM.198: obs_hotkey_thread(25 ms): min=25.098 ms, median=25.275 ms, max=42.767 ms, 91.6745% within ±2% of 25 ms (0% lower, 8.32547% higher)
+06:54:32 PM.198: obs_graphics_thread(16.6667 ms): min=9.735 ms, median=16.667 ms, max=31.775 ms, 99.819% within ±2% of 16.667 ms (0.103439% lower, 0.0775795% higher)
+06:54:32 PM.198: obs_graphics_thread(16.6667 ms): min=16.16 ms, median=16.666 ms, max=17.146 ms, 99.973% within ±2% of 16.667 ms (0.0134989% lower, 0.0134989% higher)
+06:54:32 PM.198: =================================================
+06:54:32 PM.228: Number of memory leaks: 0
