@@ -1,0 +1,16 @@
+3270-fonts
+colorpicker
+gtk-theme-numix-solarized
+libxft-bgra-git
+light-git
+package-query
+picom-git
+spotify-dev
+stremio-beta
+ttf-iosevka
+ttf-twemoji
+tutanota-desktop-bin
+universal-ctags-git
+yadm-git
+yaourt
+zotero
