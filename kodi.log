@@ -1,0 +1,454 @@
+﻿2025-10-19 22:15:05.791 T:14404    info <general>: -----------------------------------------------------------------------
+2025-10-19 22:15:05.791 T:14404    info <general>: Starting Kodi (21.2 (21.2.0) Git:20250115-d1a1d48c3c). Platform: Windows NT x86 64-bit
+2025-10-19 22:15:05.791 T:14404    info <general>: Using Release Kodi x64
+2025-10-19 22:15:05.791 T:14404    info <general>: Kodi compiled 2025-01-18 by MSVC 194234436 for Windows NT x86 64-bit version 10.0 (0x0A00000C)
+2025-10-19 22:15:05.791 T:14404    info <general>: Running on Windows 11 25H2, kernel: Windows NT x86 64-bit version 10.0.26200.6899
+2025-10-19 22:15:05.791 T:14404    info <general>: FFmpeg version/source: 6.0.1-Kodi
+2025-10-19 22:15:05.791 T:14404    info <general>: Host CPU: 12th Gen Intel(R) Core(TM) i5-12450HX, 12 cores available
+2025-10-19 22:15:05.791 T:14404    info <general>: System has 16.0 GB of RAM installed
+2025-10-19 22:15:05.791 T:14404    info <general>: Desktop Resolution: 1920x1080 32Bit at 144Hz
+2025-10-19 22:15:05.791 T:14404    info <general>: Running with restricted rights
+2025-10-19 22:15:05.791 T:14404    info <general>: Aero is enabled
+2025-10-19 22:15:05.791 T:14404    info <general>: Display is not HDR capable or cannot be detected
+2025-10-19 22:15:05.792 T:14404    info <general>: special://xbmc/ is mapped to: C:\Program Files\Kodi
+2025-10-19 22:15:05.792 T:14404    info <general>: special://xbmcbin/ is mapped to: C:\Program Files\Kodi
+2025-10-19 22:15:05.792 T:14404    info <general>: special://xbmcbinaddons/ is mapped to: C:\Program Files\Kodi/addons
+2025-10-19 22:15:05.792 T:14404    info <general>: special://masterprofile/ is mapped to: C:\Users\yasin\AppData\Roaming\Kodi\userdata
+2025-10-19 22:15:05.792 T:14404    info <general>: special://home/ is mapped to: C:\Users\yasin\AppData\Roaming\Kodi\
+2025-10-19 22:15:05.792 T:14404    info <general>: special://temp/ is mapped to: C:\Users\yasin\AppData\Roaming\Kodi\cache
+2025-10-19 22:15:05.792 T:14404    info <general>: special://logpath/ is mapped to: C:\Users\yasin\AppData\Roaming\Kodi\
+2025-10-19 22:15:05.792 T:14404    info <general>: Webserver extra whitelist paths: 
+2025-10-19 22:15:05.792 T:14404    info <general>: The executable running is: C:\Program Files\Kodi\kodi.exe
+2025-10-19 22:15:05.794 T:14404    info <general>: Local hostname: Yasin_Pc
+2025-10-19 22:15:05.794 T:14404    info <general>: Log File is located: C:\Users\yasin\AppData\Roaming\Kodi\kodi.log
+2025-10-19 22:15:05.794 T:14404    info <general>: -----------------------------------------------------------------------
+2025-10-19 22:15:05.794 T:14404    info <general>: loading settings
+2025-10-19 22:15:05.795 T:14404    info <general>: special://profile/ is mapped to: special://masterprofile/
+2025-10-19 22:15:05.800 T:14404    info <general>: No settings file to load (special://xbmc/system/advancedsettings.xml)
+2025-10-19 22:15:05.800 T:14404    info <general>: No settings file to load (special://masterprofile/advancedsettings.xml)
+2025-10-19 22:15:05.800 T:14404    info <general>: Default Video Player: VideoPlayer
+2025-10-19 22:15:05.800 T:14404    info <general>: Default Audio Player: paplayer
+2025-10-19 22:15:05.800 T:14404    info <general>: Disabled debug logging due to GUI setting. Level 0.
+2025-10-19 22:15:05.800 T:14404    info <general>: Log level changed to "info"
+2025-10-19 22:15:05.800 T:14404    info <general>: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+2025-10-19 22:15:05.802 T:14404    info <general>: New Cache GUI Settings (replacement of cache in advancedsettings.xml) are:
+                                                     Buffer Mode: 4
+                                                     Memory Size: 20 MB
+                                                     Read Factor: 4.00 x 
+                                                     Chunk Size : 131072 bytes
+2025-10-19 22:15:05.802 T:14404    info <general>: creating subdirectories
+2025-10-19 22:15:05.802 T:14404    info <general>: userdata folder: special://masterprofile/
+2025-10-19 22:15:05.802 T:14404    info <general>: recording folder: 
+2025-10-19 22:15:05.802 T:14404    info <general>: screenshots folder: 
+2025-10-19 22:15:05.806 T:14404    info <general>: Running database version Addons33
+2025-10-19 22:15:05.872 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: audioencoder.kodi.builtin.aac v1.0.2 installed
+2025-10-19 22:15:05.872 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: audioencoder.kodi.builtin.wma v1.0.2 installed
+2025-10-19 22:15:05.872 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.default v1.0.42 installed
+2025-10-19 22:15:05.872 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.keyboard v1.1.43 installed
+2025-10-19 22:15:05.872 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.mouse v1.0.26 installed
+2025-10-19 22:15:05.872 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.snes v1.0.43 installed
+2025-10-19 22:15:05.872 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: inputstream.adaptive v21.5.16 installed
+2025-10-19 22:15:05.872 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.audioengine v1.1.1 installed
+2025-10-19 22:15:05.872 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.filesystem v1.1.8 installed
+2025-10-19 22:15:05.872 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.general v1.0.5 installed
+2025-10-19 22:15:05.872 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.gui v5.15.0 installed
+2025-10-19 22:15:05.872 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.main v2.0.2 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.network v1.0.4 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.tools v1.0.4 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.audiodecoder v4.0.0 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.audioencoder v3.0.0 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.game v3.0.2 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.imagedecoder v3.0.1 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.inputstream v3.3.0 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.peripheral v3.0.2 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.pvr v8.3.0 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.screensaver v2.2.0 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.vfs v3.0.1 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.videocodec v2.1.0 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.visualization v4.0.0 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.resource v1.0.0 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.album.universal v3.1.16 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.artists.universal v4.3.18 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.allmusic.com v3.2.2 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.fanart.tv v3.6.4 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.musicbrainz.org v2.2.4 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.theaudiodb.com v2.0.3 installed
+2025-10-19 22:15:05.873 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.generic.albums v1.0.18 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.generic.artists v1.0.18 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.local v1.0.1 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.themoviedb.org.python v3.1.3 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.tvshows.themoviedb.org.python v1.7.4 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: peripheral.joystick v21.1.22 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: plugin.program.autocompletion v2.1.2 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: plugin.video.themoviedb.helper v6.10.7 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: plugin.video.umbrella v6.7.49 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: plugin.video.youtube v7.2.0.3 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: repository.cocoscrapers v1.0.1 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: repository.jurialmunkey v3.4 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: repository.nixgates v2.2.0 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: repository.umbrella v2.2.6 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: repository.xbmc.org v3.4.0 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.font.robotocjksc v0.0.3 installed
+2025-10-19 22:15:05.874 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.images.studios.coloured v0.0.23 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.images.weathericons.default v1.1.9 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.images.weathericons.white v0.0.6 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.language.en_gb v2.0.2 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.uisounds.kodi v1.0.1 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: screensaver.xbmc.builtin.black v1.0.34 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: screensaver.xbmc.builtin.dim v1.0.66 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.addon.signals v0.0.6+matrix.1 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.autocompletion v2.1.1 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.beautifulsoup4 v4.12.2 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.certifi v2023.5.7 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.chardet v5.1.0 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.cocoscrapers v1.0.39 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.idna v3.10.0 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.infotagger v0.0.8 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.inputstreamhelper v0.8.2 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.jurialmunkey v0.2.29 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.pil v5.1.0 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.pycryptodome v3.4.3 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.pysocks v1.7.0+matrix.1 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.qrcode v6.1.0+matrix.3 installed
+2025-10-19 22:15:05.875 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.requests v2.31.0 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.six v1.16.0+matrix.1 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.soupsieve v2.4.1 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.urllib3 v2.2.3 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.skinvariables v2.1.34 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.texturemaker v0.2.11 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: service.xbmc.versioncheck v0.5.30+matrix.1 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: skin.arctic.fuse.2 v2.10.10 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: skin.estuary v4.0.0 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.default v21.x-1.0.1 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.addon v21.2.0 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.core v0.1.0 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.gui v5.17.0 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.json v13.5.0 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.metadata v2.1.0 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.python v3.0.1 installed
+2025-10-19 22:15:05.876 T:14404    info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.webinterface v1.0.0 installed
+2025-10-19 22:15:05.879 T:14404    info <general>: CKeyboardLayoutManager: loading keyboard layouts from special://xbmc/system/keyboardlayouts...
+2025-10-19 22:15:05.885 T:12268    info <general>: Loading special://xbmc/system/IRSSmap.xml
+2025-10-19 22:15:05.885 T:12268    info <general>: * Adding remote mapping for device 'Microsoft MCE'
+2025-10-19 22:15:05.885 T:12268    info <general>: * Adding remote mapping for device 'Abstract'
+2025-10-19 22:15:05.885 T:14404    info <general>: Primary mode: Generic PnP Monitor #1: 1920x1080 @ 144.00Hz
+2025-10-19 22:15:05.886 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 640x480 @ 60.00Hz
+2025-10-19 22:15:05.886 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 640x480 @ 144.00Hz
+2025-10-19 22:15:05.886 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 640x480 @ 120.00Hz
+2025-10-19 22:15:05.886 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 640x480 @ 100.00Hz
+2025-10-19 22:15:05.886 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 640x480 @ 75.00Hz
+2025-10-19 22:15:05.886 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 800x600 @ 60.00Hz
+2025-10-19 22:15:05.886 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 800x600 @ 144.00Hz
+2025-10-19 22:15:05.887 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 800x600 @ 120.00Hz
+2025-10-19 22:15:05.887 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 800x600 @ 100.00Hz
+2025-10-19 22:15:05.887 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 800x600 @ 75.00Hz
+2025-10-19 22:15:05.887 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1024x768 @ 60.00Hz
+2025-10-19 22:15:05.887 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1024x768 @ 144.00Hz
+2025-10-19 22:15:05.887 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1024x768 @ 120.00Hz
+2025-10-19 22:15:05.887 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1024x768 @ 100.00Hz
+2025-10-19 22:15:05.887 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1024x768 @ 75.00Hz
+2025-10-19 22:15:05.887 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x720 @ 60.00Hz
+2025-10-19 22:15:05.888 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x720 @ 144.00Hz
+2025-10-19 22:15:05.888 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x720 @ 120.00Hz
+2025-10-19 22:15:05.888 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x720 @ 100.00Hz
+2025-10-19 22:15:05.888 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x720 @ 75.00Hz
+2025-10-19 22:15:05.888 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x768 @ 60.00Hz
+2025-10-19 22:15:05.888 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x768 @ 144.00Hz
+2025-10-19 22:15:05.888 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x768 @ 120.00Hz
+2025-10-19 22:15:05.888 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x768 @ 100.00Hz
+2025-10-19 22:15:05.888 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x768 @ 75.00Hz
+2025-10-19 22:15:05.888 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x800 @ 60.00Hz
+2025-10-19 22:15:05.888 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x800 @ 144.00Hz
+2025-10-19 22:15:05.888 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x800 @ 120.00Hz
+2025-10-19 22:15:05.888 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x800 @ 100.00Hz
+2025-10-19 22:15:05.889 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x800 @ 75.00Hz
+2025-10-19 22:15:05.889 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x1024 @ 60.00Hz
+2025-10-19 22:15:05.889 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x1024 @ 144.00Hz
+2025-10-19 22:15:05.889 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x1024 @ 120.00Hz
+2025-10-19 22:15:05.889 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x1024 @ 100.00Hz
+2025-10-19 22:15:05.889 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1280x1024 @ 75.00Hz
+2025-10-19 22:15:05.889 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1360x768 @ 60.00Hz
+2025-10-19 22:15:05.889 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1360x768 @ 144.00Hz
+2025-10-19 22:15:05.889 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1360x768 @ 120.00Hz
+2025-10-19 22:15:05.890 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1360x768 @ 100.00Hz
+2025-10-19 22:15:05.890 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1360x768 @ 75.00Hz
+2025-10-19 22:15:05.890 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1366x768 @ 60.00Hz
+2025-10-19 22:15:05.890 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1366x768 @ 144.00Hz
+2025-10-19 22:15:05.890 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1366x768 @ 120.00Hz
+2025-10-19 22:15:05.890 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1366x768 @ 100.00Hz
+2025-10-19 22:15:05.890 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1366x768 @ 75.00Hz
+2025-10-19 22:15:05.890 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1440x1080 @ 60.00Hz
+2025-10-19 22:15:05.891 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1440x1080 @ 144.00Hz
+2025-10-19 22:15:05.891 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1440x1080 @ 120.00Hz
+2025-10-19 22:15:05.891 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1440x1080 @ 100.00Hz
+2025-10-19 22:15:05.891 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1440x1080 @ 75.00Hz
+2025-10-19 22:15:05.891 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1680x1050 @ 60.00Hz
+2025-10-19 22:15:05.891 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1680x1050 @ 144.00Hz
+2025-10-19 22:15:05.891 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1680x1050 @ 120.00Hz
+2025-10-19 22:15:05.891 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1680x1050 @ 100.00Hz
+2025-10-19 22:15:05.891 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1680x1050 @ 75.00Hz
+2025-10-19 22:15:05.891 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 2715x1527 @ 60.00Hz
+2025-10-19 22:15:05.891 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 2715x1527 @ 144.00Hz
+2025-10-19 22:15:05.892 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 2715x1527 @ 120.00Hz
+2025-10-19 22:15:05.892 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 2715x1527 @ 100.00Hz
+2025-10-19 22:15:05.892 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 2715x1527 @ 75.00Hz
+2025-10-19 22:15:05.892 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1920x1080 @ 60.00Hz
+2025-10-19 22:15:05.892 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1920x1080 @ 144.00Hz
+2025-10-19 22:15:05.892 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1920x1080 @ 120.00Hz
+2025-10-19 22:15:05.892 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1920x1080 @ 100.00Hz
+2025-10-19 22:15:05.892 T:14404    info <general>: Additional mode: Generic PnP Monitor #1: 1920x1080 @ 75.00Hz
+2025-10-19 22:15:05.892 T:14404    info <general>: CApplication::CApplication::CreateGUI - using the default windowing system
+2025-10-19 22:15:05.892 T:14404    info <general>: Checking resolution 16
+2025-10-19 22:15:06.037 T:14404    info <general>: DX::DeviceResources::CheckNV12SharedTexturesSupport: extended NV12 shared textures is supported
+2025-10-19 22:15:06.037 T:14404    info <general>: DX::DeviceResources::CreateDeviceResources: device is created on adapter 'NVIDIA GeForce RTX 4060 Laptop GPU' with D3D_FEATURE_LEVEL_12_1
+2025-10-19 22:15:06.037 T:14404    info <general>: VideoDriverInfo::Log: video driver version is NVIDIA 581.29 (32.0.15.8129)
+2025-10-19 22:15:06.037 T:14404    info <general>: DX::DeviceResources::CheckDXVA2SharedDecoderSurfaces: DXVA2 shared decoder surfaces is supported
+2025-10-19 22:15:06.037 T:14404    info <general>: DX::DeviceResources::CheckDXVA2SharedDecoderSurfaces: DXVA2 shared decoder surfaces WITH fence synchronization.
+2025-10-19 22:15:06.037 T:14404    info <general>: DX::DeviceResources::CheckDXVA2SharedDecoderSurfaces: DXVA Video Super Resolution is potentially supported
+2025-10-19 22:15:06.044 T:14404    info <general>: DX::DeviceResources::ResizeBuffers: 8 bit swapchain is used with 6 flip discard buffers and SDR output (format B8G8R8A8_UNORM)
+2025-10-19 22:15:06.062 T:14404    info <general>: RetroPlayer[RENDER]: Registering renderer factory for DirectX
+2025-10-19 22:15:06.101 T:14404    info <general>: load keymapping
+2025-10-19 22:15:06.102 T:14404    info <general>: Loading special://xbmc/system/keymaps/appcommand.xml
+2025-10-19 22:15:06.102 T:14404    info <general>: Loading special://xbmc/system/keymaps/customcontroller.AppleRemote.xml
+2025-10-19 22:15:06.102 T:14404    info <general>: Loading special://xbmc/system/keymaps/customcontroller.Harmony.xml
+2025-10-19 22:15:06.103 T:14404    info <general>: Loading special://xbmc/system/keymaps/customcontroller.SiriRemote.xml
+2025-10-19 22:15:06.103 T:14404    info <general>: Loading special://xbmc/system/keymaps/gamepad.xml
+2025-10-19 22:15:06.103 T:14404    info <general>: Loading special://xbmc/system/keymaps/joystick.xml
+2025-10-19 22:15:06.104 T:14404    info <general>: Loading special://xbmc/system/keymaps/keyboard.xml
+2025-10-19 22:15:06.104 T:14404    info <general>: Loading special://xbmc/system/keymaps/mouse.xml
+2025-10-19 22:15:06.104 T:14404    info <general>: Loading special://xbmc/system/keymaps/remote.xml
+2025-10-19 22:15:06.105 T:14404    info <general>: Loading special://xbmc/system/keymaps/touchscreen.xml
+2025-10-19 22:15:06.106 T:14404    info <general>: GUI format 1920x1080, Display Generic PnP Monitor #1: 1920x1080 @ 144.00Hz
+2025-10-19 22:15:06.163 T:17640    info <general>: Found 2 Lists of Devices
+2025-10-19 22:15:06.163 T:17640    info <general>: Enumerated DIRECTSOUND devices:
+2025-10-19 22:15:06.163 T:17640    info <general>:     Device 1
+2025-10-19 22:15:06.163 T:17640    info <general>:         m_deviceName      : {419D4B85-AEAE-4905-AA71-2B5B1140A01F}
+2025-10-19 22:15:06.163 T:17640    info <general>:         m_displayName     : Speakers - Speakers (Realtek(R) Audio)
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_displayNameExtra: DIRECTSOUND: Speakers (Realtek(R) Audio)
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_channels        : FL, FR
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_sampleRates     : 48000
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_dataFormats     : AE_FMT_FLOAT
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_streamTypes     : No passthrough capabilities
+2025-10-19 22:15:06.164 T:17640    info <general>:     Device 2
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_deviceName      : default
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_displayName     : default
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_displayNameExtra: 
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_channels        : FL, FR
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_sampleRates     : 48000
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_dataFormats     : AE_FMT_FLOAT
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_streamTypes     : No passthrough capabilities
+2025-10-19 22:15:06.164 T:17640    info <general>: Enumerated WASAPI devices:
+2025-10-19 22:15:06.164 T:17640    info <general>:     Device 1
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_deviceName      : {419D4B85-AEAE-4905-AA71-2B5B1140A01F}
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_displayName     : Speakers - Speakers (Realtek(R) Audio)
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_displayNameExtra: WASAPI: Speakers (Realtek(R) Audio)
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_channels        : FL, FR
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_sampleRates     : 192000,176400,96000,88200,48000,44100,32000,22050,11025
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_dataFormats     : AE_FMT_S24NE3,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_U8
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_streamTypes     : No passthrough capabilities
+2025-10-19 22:15:06.164 T:17640    info <general>:     Device 2
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_deviceName      : default
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_displayName     : default
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_displayNameExtra: 
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_channels        : FL, FR
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_sampleRates     : 192000,176400,96000,88200,48000,44100,32000,22050,11025
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_dataFormats     : AE_FMT_S24NE3,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_U8
+2025-10-19 22:15:06.164 T:17640    info <general>:         m_streamTypes     : No passthrough capabilities
+2025-10-19 22:15:06.164 T:14736    info <general>: CActiveAESink::OpenSink - initialize sink
+2025-10-19 22:15:06.185 T:17640 warning <general>: CActiveAE::ActiveAE::CActiveAE::StateMachine - signal: 0 from port: OutputControlPort not handled for state: 7
+2025-10-19 22:15:06.185 T:14404    info <general>: Skipped 1 duplicate messages..
+2025-10-19 22:15:06.185 T:14404    info <general>: CLangInfo: loading resource.language.en_gb language information...
+2025-10-19 22:15:06.186 T:14404    info <general>: global locale set to en-us
+2025-10-19 22:15:06.186 T:14404    info <general>: CLangInfo: loading resource.language.en_gb language strings...
+2025-10-19 22:15:06.222 T:7028     info <general>: Running database version Addons33
+2025-10-19 22:15:06.223 T:7028     info <general>: Running database version ViewModes6
+2025-10-19 22:15:06.223 T:7028     info <general>: Running database version Textures13
+2025-10-19 22:15:06.224 T:7028     info <general>: Running database version MyMusic83
+2025-10-19 22:15:06.226 T:7028     info <general>: Running database version MyVideos131
+2025-10-19 22:15:06.229 T:7028     info <general>: Running database version TV46
+2025-10-19 22:15:06.229 T:7028     info <general>: Running database version Epg16
+2025-10-19 22:15:06.246 T:14404    info <general>: Unloaded skin
+2025-10-19 22:15:06.248 T:14404    info <general>:   load skin from: C:\Users\yasin\AppData\Roaming\Kodi\addons\skin.arctic.fuse.2\ (version: 2.10.10)
+2025-10-19 22:15:06.249 T:14404    info <general>:   load fonts for skin...
+2025-10-19 22:15:06.250 T:14404    info <general>: Loading skin includes from C:\Users\yasin\AppData\Roaming\Kodi\addons\skin.arctic.fuse.2\1080i\Includes.xml
+2025-10-19 22:15:06.375 T:14404    info <general>: GUIFontManager::LoadFontsFromFile: Loading <fontset> with name 'Default' from 'C:\Users\yasin\AppData\Roaming\Kodi\addons\skin.arctic.fuse.2\1080i\Font.xml'
+2025-10-19 22:15:06.400 T:14404    info <general>: ADDON::CSkinInfo::LoadTimers: Trying to load skin timers from C:\Users\yasin\AppData\Roaming\Kodi\addons\skin.arctic.fuse.2\1080i\Timers.xml
+2025-10-19 22:15:06.400 T:14404    info <general>:   load new skin...
+2025-10-19 22:15:06.400 T:14404    info <general>: Loading custom window XMLs from skin path C:\Users\yasin\AppData\Roaming\Kodi\addons\skin.arctic.fuse.2\1080i
+2025-10-19 22:15:06.428 T:14404    info <general>:   initialize new skin...
+2025-10-19 22:15:06.428 T:14404    info <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
+2025-10-19 22:15:06.434 T:14404    info <general>: Loading skin file: Custom_1124_Dialog_PIP.xml, load type: LOAD_ON_GUI_INIT
+2025-10-19 22:15:06.435 T:14404    info <general>: Loading skin file: Custom_1192_HolidayTheme.xml, load type: LOAD_ON_GUI_INIT
+2025-10-19 22:15:06.436 T:14404    info <general>: Loading skin file: Pointer.xml, load type: LOAD_ON_GUI_INIT
+2025-10-19 22:15:06.436 T:14404    info <general>: Loading skin file: DialogVolumeBar.xml, load type: LOAD_ON_GUI_INIT
+2025-10-19 22:15:06.440 T:14404    info <general>: Loading skin file: DialogExtendedProgressBar.xml, load type: LOAD_ON_GUI_INIT
+2025-10-19 22:15:06.441 T:14404    info <general>: Loading skin file: DialogSeekBar.xml, load type: LOAD_ON_GUI_INIT
+2025-10-19 22:15:06.446 T:14404    info <general>: Loading skin file: DialogNotification.xml, load type: LOAD_ON_GUI_INIT
+2025-10-19 22:15:06.448 T:14404    info <general>: Loading skin file: Custom_1196_Auto_Visualisation.xml, load type: LOAD_ON_GUI_INIT
+2025-10-19 22:15:06.448 T:14404    info <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
+2025-10-19 22:15:06.448 T:14404    info <general>: Loading skin file: Custom_1151_OSD_MusicInfoOverlay.xml, load type: LOAD_ON_GUI_INIT
+2025-10-19 22:15:06.449 T:14404    info <general>: Loading skin file: Custom_1152_OSD_VideoInfoOverlay.xml, load type: LOAD_ON_GUI_INIT
+2025-10-19 22:15:06.462 T:14404    info <general>: Loading skin file: Custom_1153_OSD_VideoInfoOverlayTop.xml, load type: LOAD_ON_GUI_INIT
+2025-10-19 22:15:06.470 T:14404    info <general>: Loading skin file: Custom_1194_Debug_Grid.xml, load type: LOAD_ON_GUI_INIT
+2025-10-19 22:15:06.471 T:14404    info <general>: Loading skin file: Custom_1199_Debug_Overlay.xml, load type: LOAD_ON_GUI_INIT
+2025-10-19 22:15:06.471 T:14404    info <general>: Loading resource://resource.uisounds.kodi/sounds.xml
+2025-10-19 22:15:06.492 T:14404    info <general>:   skin loaded...
+2025-10-19 22:15:06.492 T:14404    info <general>: Loading skin file: Startup.xml, load type: LOAD_EVERY_TIME
+2025-10-19 22:15:06.493 T:14404    info <general>: Loading skin file: Custom_1198_Window_Startup.xml, load type: KEEP_IN_MEMORY
+2025-10-19 22:15:06.493 T:14404 warning <general>: Skin has invalid include: skinvariables-options-tray-onload
+2025-10-19 22:15:06.513 T:14404    info <general>: Skipped 1 duplicate messages..
+2025-10-19 22:15:06.513 T:14404 warning <general>: JSONRPC: Could not parse type "Setting.Details.SettingList"
+2025-10-19 22:15:06.513 T:14404    info <general>: JSONRPC: Adding type "Setting.Details.SettingList" to list of incomplete definitions (waiting for "Setting.Details.Setting")
+2025-10-19 22:15:06.513 T:14404    info <general>: JSONRPC: Resolving incomplete types/methods referencing Setting.Details.Setting
+2025-10-19 22:15:06.521 T:14404    info <general>: JSONRPC v13.5.0: Successfully initialized
+2025-10-19 22:15:06.539 T:14404    info <general>: AddOnLog: peripheral.joystick: Enabling joystick interface "xinput"
+2025-10-19 22:15:06.541 T:14404    info <general>: AddOnLog: peripheral.joystick: Enabling joystick interface "directinput"
+2025-10-19 22:15:06.543 T:14404    info <general>: PERIPHERALS::CPeripheralBus::Register - new keyboard device registered on application->keyboard: Keyboard (0000:0000)
+2025-10-19 22:15:06.544 T:14404    info <general>: PERIPHERALS::CPeripheralBus::Register - new mouse device registered on application->mouse: Mouse (0000:0000)
+2025-10-19 22:15:06.546 T:14404    info <general>: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+2025-10-19 22:15:06.546 T:14404    info <general>: Loaded playercorefactory configuration
+2025-10-19 22:15:06.546 T:14404    info <general>: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+2025-10-19 22:15:06.547 T:14404    info <general>: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+2025-10-19 22:15:06.547 T:14404    info <general>: removing tempfiles
+2025-10-19 22:15:06.552 T:14404    info <general>: initialize done
+2025-10-19 22:15:06.552 T:14404    info <general>: Running the application...
+2025-10-19 22:15:06.564 T:32288    info <general>: ES: Starting UDP Event server on port 9777
+2025-10-19 22:15:06.564 T:14404    info <general>: JSONRPC Server: Successfully initialized
+2025-10-19 22:15:06.565 T:32288    info <general>: UDP: Listening on port 9777 (ipv6 : false)
+2025-10-19 22:15:06.576 T:14404    info <general>: [WS-Discovery]: Daemon started successfully.
+2025-10-19 22:15:07.586 T:22484    info <general>: [ plugin.video.umbrella ]  Service Started
+2025-10-19 22:15:07.586 T:22484    info <general>: [ plugin.video.umbrella ]  CheckSettingsFile Service Starting...
+2025-10-19 22:15:07.587 T:22484    info <general>: C:\Users\yasin\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.umbrella\ : already exists
+2025-10-19 22:15:07.587 T:22484    info <general>: C:\Users\yasin\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.umbrella\settings.xml : already exists
+2025-10-19 22:15:07.587 T:22484    info <general>: [ plugin.video.umbrella ]  Finished CheckSettingsFile Service
+2025-10-19 22:15:07.587 T:22484    info <general>: [ plugin.video.umbrella ]  Sync Accounts with Scraper Starting...
+2025-10-19 22:15:07.594 T:22484    info <general>: [ plugin.video.umbrella ]  Finished Sync with Scraper
+2025-10-19 22:15:07.730 T:1956     info <general>: [ script.module.cocoscrapers ]  Service Started
+2025-10-19 22:15:07.730 T:1956     info <general>: [ script.module.cocoscrapers ]  CheckSettingsFile Service Starting...
+2025-10-19 22:15:07.731 T:1956     info <general>: C:\Users\yasin\AppData\Roaming\Kodi\userdata\addon_data\script.module.cocoscrapers\ : already exists
+2025-10-19 22:15:07.732 T:1956     info <general>: C:\Users\yasin\AppData\Roaming\Kodi\userdata\addon_data\script.module.cocoscrapers\settings.xml : already exists
+2025-10-19 22:15:07.732 T:1956     info <general>: [ script.module.cocoscrapers ]  Finished CheckSettingsFile Service
+2025-10-19 22:15:07.732 T:1956     info <general>: [ script.module.cocoscrapers ]  "CheckUndesirablesDatabase" Service Starting...
+2025-10-19 22:15:07.802 T:1956     info <general>: [ script.module.cocoscrapers ]  Finished "CheckUndesirablesDatabase" Service
+2025-10-19 22:15:07.818 T:1956     info <general>: [ script.module.cocoscrapers ]  Settings Monitor Service Starting...
+2025-10-19 22:15:08.000 T:20476    info <general>: script.skinvariables - update_xml:  0.044 sec
+2025-10-19 22:15:08.506 T:14404    info <general>: Loading skin file: Home.xml, load type: KEEP_IN_MEMORY
+2025-10-19 22:15:08.507 T:14404 warning <general>: Skin has invalid include: skinvariables-options-tray-onload
+2025-10-19 22:15:08.542 T:14404    info <general>: Skipped 8 duplicate messages..
+2025-10-19 22:15:08.542 T:14404 warning <general>: Trying to add unsupported control type 7
+2025-10-19 22:15:08.788 T:14404    info <general>: Skipped 6 duplicate messages..
+2025-10-19 22:15:08.787 T:14404    info <general>: Loading controller layout: C:\Program Files\Kodi\addons\game.controller.mouse\resources\layout.xml
+2025-10-19 22:15:08.992 T:1400     info <general>: CPythonInvoker(6, C:\Users\yasin\AppData\Roaming\Kodi\addons\plugin.video.themoviedb.helper\resources\script.py): waiting on thread 10232
+2025-10-19 22:15:09.680 T:10484    info <general>: [plugin.video.themoviedb.helper]
+                                                   CACHE: Initialising...
+                                                   C:\Users\yasin\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.themoviedb.helper\database_07\ItemQueries.db
+                                                   database_07_ItemQueries.db_databaserowfactory_6.10.7
+2025-10-19 22:15:09.963 T:12268    info <general>: CIRServerSuite::Process: failed to connect to irss, will keep retrying every 5 seconds
+2025-10-19 22:15:10.122 T:22484    info <general>: [ plugin.video.umbrella ] Debrid Account Expiry Notification Service Starting...
+2025-10-19 22:15:10.508 T:11792    info <general>: [plugin.video.youtube] Service: Starting v7.2.0.3
+                                                   	Kodi:   v21.2 (Kodi Omega)
+                                                   	Python: v3.8.15
+2025-10-19 22:15:10.600 T:22484    info <general>: [ plugin.video.umbrella ]  ReuseLanguageInvokerCheck Service Starting...
+2025-10-19 22:15:10.630 T:22484    info <general>: [ plugin.video.umbrella ]  ReuseLanguageInvokerCheck Service Finished
+2025-10-19 22:15:10.630 T:22484    info <general>: [ plugin.video.umbrella ]  Addon checking available updates
+2025-10-19 22:15:11.025 T:22484    info <general>: [ plugin.video.umbrella ]  Addon update check complete
+2025-10-19 22:15:11.027 T:29408    info <general>: [plugin.video.themoviedb.helper]
+                                                   [22:15:11.027094] Trakt authentication token confirmed.
+2025-10-19 22:15:11.027 T:29408    info <general>: Trakt authorization check took 2.568 sec
+2025-10-19 22:15:11.029 T:22484    info <general>: [ plugin.video.umbrella ]  Checking for AutoStart....
+2025-10-19 22:15:11.029 T:22484    info <general>: [ plugin.video.umbrella ]  Finished AutoStart Check
+2025-10-19 22:15:11.029 T:25908    info <general>: [ plugin.video.umbrella ]  Account Sync Service Starting (sync check every 15 minutes)...
+2025-10-19 22:15:11.040 T:22484    info <general>: [ plugin.video.umbrella ]  Settings Monitor Service Starting...
+2025-10-19 22:15:11.099 T:16936    info <general>: [plugin.video.themoviedb.helper]
+                                                   CACHE: Initialising...
+                                                   C:\Users\yasin\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.themoviedb.helper\database_07\ItemDetails.db
+                                                   database_07_ItemDetails.db_databaserowfactory_6.10.7
+2025-10-19 22:15:12.924 T:31032    info <general>: Skipped 1 duplicate messages..
+2025-10-19 22:15:12.924 T:31032   error <general>: CImageLoader::DoWork - Direct texture file loading failed for resource://resource.images.studios.coloured/SISTER.png
+2025-10-19 22:15:16.291 T:14404    info <general>: Loading controller layout: C:\Program Files\Kodi\addons\game.controller.keyboard\resources\layout.xml
+2025-10-19 22:15:16.295 T:14404    info <general>: Loading skin file: DialogButtonMenu.xml, load type: KEEP_IN_MEMORY
+2025-10-19 22:15:16.295 T:14404    info <general>: Loading skin file: Custom_1170_Dialog_HomeMenu.xml, load type: KEEP_IN_MEMORY
+2025-10-19 22:15:16.578 T:25176 warning <general>: [WS-Discovery]: The initial search for servers has failed. No servers found.
+2025-10-19 22:15:19.166 T:14404    info <general>: Loading skin file: Settings.xml, load type: KEEP_IN_MEMORY
+2025-10-19 22:15:19.444 T:25104    info <general>: CPythonInvoker(16, C:\Users\yasin\AppData\Roaming\Kodi\addons\plugin.video.themoviedb.helper\resources\script.py): waiting on thread 29976
+2025-10-19 22:15:26.225 T:21848    info <general>: CPythonInvoker(19, C:\Users\yasin\AppData\Roaming\Kodi\addons\plugin.video.themoviedb.helper\resources\script.py): waiting on thread 28860
+2025-10-19 22:15:30.691 T:14404    info <general>: Loading skin file: AddonBrowser.xml, load type: KEEP_IN_MEMORY
+2025-10-19 22:15:30.698 T:14404 warning <general>: Trying to add unsupported control type 7
+2025-10-19 22:15:31.170 T:32624    info <general>: CPythonInvoker(21, C:\Users\yasin\AppData\Roaming\Kodi\addons\plugin.video.themoviedb.helper\resources\script.py): waiting on thread 31384
+2025-10-19 22:15:42.824 T:14404    info <general>: Loading skin file: DialogAddonInfo.xml, load type: KEEP_IN_MEMORY
+2025-10-19 22:15:46.947 T:14404    info <general>: Loading skin file: DialogAddonSettings.xml, load type: KEEP_IN_MEMORY
+2025-10-19 22:15:46.951 T:14404 warning <general>: Skin has invalid include: defs_dialog_colorbutton
+2025-10-19 22:16:03.550 T:23288    info <general>: Skipped 3 duplicate messages..
+2025-10-19 22:16:03.550 T:23288   error <general>: EXCEPTION Thrown (PythonToCppException) : -->Python callback/script returned the following error<--
+                                                    - NOTE: IGNORING THIS CAN LEAD TO MEMORY LEAKS!
+                                                   Error Type: <class 'requests.exceptions.ConnectionError'>
+                                                   Error Contents: HTTPSConnectionPool(host='api.real-debrid.com', port=443): Max retries exceeded with url: /oauth/v2/device/code?client_id=X245A4XAIBGVM&new_credentials=yes (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)))
+                                                   urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+                                                   
+                                                   The above exception was the direct cause of the following exception:
+                                                   
+                                                   Traceback (most recent call last):
+                                                     File "C:\Users\yasin\AppData\Roaming\Kodi\addons\script.module.requests\lib\requests\adapters.py", line 486, in send
+                                                       resp = conn.urlopen(
+                                                     File "C:\Users\yasin\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py", line 873, in urlopen
+                                                       return self.urlopen(
+                                                     File "C:\Users\yasin\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py", line 873, in urlopen
+                                                       return self.urlopen(
+                                                     File "C:\Users\yasin\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py", line 873, in urlopen
+                                                       return self.urlopen(
+                                                     [Previous line repeated 2 more times]
+                                                     File "C:\Users\yasin\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py", line 843, in urlopen
+                                                       retries = retries.increment(
+                                                     File "C:\Users\yasin\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\util\retry.py", line 519, in increment
+                                                       raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+                                                   urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.real-debrid.com', port=443): Max retries exceeded with url: /oauth/v2/device/code?client_id=X245A4XAIBGVM&new_credentials=yes (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)))
+                                                   
+                                                   During handling of the above exception, another exception occurred:
+                                                   
+                                                   Traceback (most recent call last):
+                                                     File "C:\Users\yasin\AppData\Roaming\Kodi\addons\plugin.video.umbrella\umbrella.py", line 10, in <module>
+                                                       router.router(sys.argv[2])
+                                                     File "C:\Users\yasin\AppData\Roaming\Kodi\addons\plugin.video.umbrella\resources\lib\modules\router.py", line 596, in router
+                                                       realdebrid.RealDebrid().auth(fromSettings=1)
+                                                     File "C:\Users\yasin\AppData\Roaming\Kodi\addons\plugin.video.umbrella\resources\lib\debrid\realdebrid.py", line 154, in auth
+                                                       response = session.get(url).json()
+                                                     File "C:\Users\yasin\AppData\Roaming\Kodi\addons\script.module.requests\lib\requests\sessions.py", line 602, in get
+                                                       return self.request("GET", url, **kwargs)
+                                                     File "C:\Users\yasin\AppData\Roaming\Kodi\addons\script.module.requests\lib\requests\sessions.py", line 589, in request
+                                                       resp = self.send(prep, **send_kwargs)
+                                                     File "C:\Users\yasin\AppData\Roaming\Kodi\addons\script.module.requests\lib\requests\sessions.py", line 703, in send
+                                                       r = adapter.send(request, **kwargs)
+                                                     File "C:\Users\yasin\AppData\Roaming\Kodi\addons\script.module.requests\lib\requests\adapters.py", line 519, in send
+                                                       raise ConnectionError(e, request=request)
+                                                   requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.real-debrid.com', port=443): Max retries exceeded with url: /oauth/v2/device/code?client_id=X245A4XAIBGVM&new_credentials=yes (Caused by ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)))
+                                                   -->End of Python script error report<--
+                                                   
+2025-10-19 22:16:56.708 T:15912    info <general>: CPythonInvoker(23, C:\Users\yasin\AppData\Roaming\Kodi\addons\plugin.video.themoviedb.helper\resources\script.py): waiting on thread 28648
+2025-10-19 22:16:58.289 T:14404    info <general>: Stopping the application...
+2025-10-19 22:16:58.289 T:14404    info <general>: Stopping player
+2025-10-19 22:16:58.290 T:14404    info <general>: Storing total System Uptime
+2025-10-19 22:16:58.291 T:14404    info <general>: Saving settings
+2025-10-19 22:16:58.293 T:14404    info <general>: Saving skin settings
+2025-10-19 22:16:58.293 T:14404    info <general>: Stopping all
+2025-10-19 22:16:58.294 T:14404    info <general>: ES: Stopping event server
+2025-10-19 22:16:58.297 T:14404    info <general>: [WS-Discovery]: terminating
+2025-10-19 22:16:58.620 T:32288    info <general>: ES: UDP Event server stopped
+2025-10-19 22:16:58.621 T:10484    info <general>: CPythonInvoker(1, C:\Users\yasin\AppData\Roaming\Kodi\addons\plugin.video.themoviedb.helper\resources\service.py): waiting on thread 29408
+2025-10-19 22:16:58.764 T:29408    info <general>: Vacuuming databases: 0.143 sec
+2025-10-19 22:16:58.872 T:22484    info <general>: [ plugin.video.umbrella ]  Settings Monitor Service Stopping...
+2025-10-19 22:16:58.872 T:22484    info <general>: [ plugin.video.umbrella ]  Account Sync Service Stopping...
+2025-10-19 22:16:58.872 T:22484    info <general>: [ plugin.video.umbrella ]  Service Stopped
+2025-10-19 22:16:58.913 T:1956     info <general>: [ script.module.cocoscrapers ]  Service Stopped
+2025-10-19 22:16:58.917 T:14404    info <general>: CServiceAddonManager: failed to stop service.xbmc.versioncheck (may have ended)
+2025-10-19 22:16:58.919 T:14404    info <general>: Application stopped
+2025-10-19 22:16:59.145 T:14404    info <general>: AddOnLog: peripheral.joystick: Disabling joystick interface "directinput"
+2025-10-19 22:16:59.145 T:14404    info <general>: AddOnLog: peripheral.joystick: Disabling joystick interface "xinput"
+2025-10-19 22:16:59.146 T:14404    info <general>: ADDON: Dll Destroyed - Joystick Support
+2025-10-19 22:16:59.146 T:14404    info <general>: unload skin
+2025-10-19 22:16:59.181 T:14404    info <general>: Unloaded skin
+2025-10-19 22:16:59.220 T:14404    info <general>: unload sections
+2025-10-19 22:16:59.229 T:14404    info <general>: Exiting the application...
